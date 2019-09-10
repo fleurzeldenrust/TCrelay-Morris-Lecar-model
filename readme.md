@@ -3,7 +3,7 @@ We investigated the reliability of the timing of spikes in a spike train in a Mo
 
 Zeldenrust, F., Chameau, P. J. P., & Wadman, W. J. (2013). Reliability of spike and burst firing in thalamocortical relay cells. Journal of Computational Neuroscience, 35, 317–334. https://doi.org/10.1007/s10827-013-0454-8 <br />
 
-Please cite this reference when using this method.
+Please cite this reference when using this model.
 
 # Use
 The XPP code can be run and set with MATLAB (using file runchange.m)
