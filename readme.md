@@ -5,6 +5,10 @@ Zeldenrust, F., Chameau, P. J. P., & Wadman, W. J. (2013). Reliability of spike 
 
 Please cite this reference when using this model.
 
+See also: <br />
+ModelDB: https://senselab.med.yale.edu/ModelDB/ShowModel.cshtml?model=150217 <br />
+Open Source Brain: http://www.opensourcebrain.org/projects/tcrelay-neuron-morris-lecar-model-with-added-t-h-and-ahp-currents-zeldenrust-et-al-2013 <br />
+
 # Use
 The XPP code can be run and set with MATLAB (using file runchange.m)
 using the MATLAB-XPP interface that can be downloaded here:
