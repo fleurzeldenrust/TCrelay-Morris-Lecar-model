@@ -10,12 +10,12 @@ The XPP code can be run and set with MATLAB (using file runchange.m)
 using the MATLAB-XPP interface that can be downloaded here:
 http://www2.gsu.edu/~matrhc/XPP-Matlab.html
 
-There were five sets of simulations
-1 The original Prescott model: prescott
-2 Model with added T-current: prescott + T
-3 Model with added T-current and adaptation current: prescott + T+adap
-4 Model with added T-current and h-current: prescott + T+h
-5 Model with added T-current with variable gT: prescott+Tvar
+There were five sets of simulations<br />
+1 The original Prescott model: prescott<br />
+2 Model with added T-current: prescott + T<br />
+3 Model with added T-current and adaptation current: prescott + T+adap<br />
+4 Model with added T-current and h-current: prescott + T+h<br />
+5 Model with added T-current with variable gT: prescott+Tvar<br />
 
 All used the same input stimulus, taken from the experiments, stim.tab
 
